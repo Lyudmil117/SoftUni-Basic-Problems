@@ -15,6 +15,3 @@ for x in range(0, len(word)):
     if word[x] == "u":
         s = s + 5
 print(s)
-
-
-
