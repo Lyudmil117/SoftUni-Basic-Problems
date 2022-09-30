@@ -23,3 +23,4 @@ elif figure == 'rectangle':
     area = a * b
     print(f'{area:.3f}')
 
+    
