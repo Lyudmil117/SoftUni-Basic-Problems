@@ -11,5 +11,5 @@ for word in new_list:
     if rev_word == word:
         print("Yes")
     else:
-        print("No")
+        print("No") 
 
